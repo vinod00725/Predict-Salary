@@ -1,0 +1,32 @@
+rpart
+Train data
+mae          			mse         		rmse        	 	mape 
+1.157720e+05  3.600386e+10  1.897468e+05  2.570430e-01
+
+Test data
+mae         		 	mse       		  rmse         		mape 
+1.312708e+05  5.005910e+10  2.237389e+05  3.042769e-01
+
+multi
+
+Train data
+ mae         		 	mse        		 rmse     	    mape 
+1.500705e+05 	6.051114e+10 	2.459901e+05 	3.304780e-01 
+
+Test data
+
+mae          			mse        		 rmse    	     mape 
+4.935367e+05  2.743253e+11  5.237607e+05  1.158306e+00 
+
+pca
+Train data						Test data
+RMSE - 5.18e+05				RMSE-7.12e+05
+
+XGBOOST
+Train data
+mae          			mse         		rmse     	    mape 
+2.728911e+05  1.500294e+11  3.873363e+05  4.477916e-01 
+
+Test data
+mae          			mse        		 rmse        		 mape 
+2.624687e+05  1.236084e+11  3.515798e+05  4.285204e-01 
